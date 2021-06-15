@@ -1,27 +1,45 @@
-### Hey There!👋
+### **Hey There, I'm Priyansh Bhatnagar** 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Github stats](https://github-readme-stats.vercel.app/api?username=PriyanshX1902&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshX1902&layout=compact)
-[![PriyanshX1902's github activity graph](https://activity-graph.herokuapp.com/graph?username=PriyanshX1902&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
-**PriyanshX1902/PriyanshX1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me
+🎓 I'm a Computer Engineering Undergraduate at Delhi Technological University (DTU).\
+💡 Interested in working alongside like minded people enthusiastic about ReactJS, FullStack Development, Game Development or developing cutting edge tech.\
+🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
+⚡ In my free time, I pursue Music and Gaming as side hustles.\
+✉️ You can reach out to me via email at hemang.dtu@gmail.com.
 
-Here are some ideas to get you started:
+### 🛠 Languages and Tools
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=42A5F5)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs&logoColor=42A5F5)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=42A5F5)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-UnrealEngine4-05122A?style=flat&logo=unrealengine&logoColor=42A5F5)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/PriyanshX1902">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PriyanshX1902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PriyanshX1902&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+[![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PriyanshX1902&theme=react-dark)](https://github.com/PriyanshX1902)
+
+### 🤝🏻 Want to Connect?
+<p align="center">
+<a href="https://in.linkedin.com/in/priyanshx19">
+  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+</a>
+<a href="https://github.com/PriyanshX1902">
+  <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+</a>
+
