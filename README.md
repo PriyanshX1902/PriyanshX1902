@@ -5,7 +5,7 @@
 💡 Interested in working alongside like minded people enthusiastic about ReactJS, FullStack Development, Game Development or developing cutting edge tech.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
 ⚡ In my free time, I pursue Music and Gaming as side hustles.\
-✉️ You can reach out to me via email at hemang.dtu@gmail.com.
+✉️ You can reach out to me via email at priyanshbhatnagar9@gmail.com.
 
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
