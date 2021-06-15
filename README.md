@@ -42,6 +42,6 @@
   <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
 </a>
 <a href="https://github.com/PriyanshX1902">
-  <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+  <img align="left" alt="Priyansh's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
 </a>
 
