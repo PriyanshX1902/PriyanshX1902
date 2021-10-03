@@ -27,7 +27,7 @@
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### ⚙️ GitHub Analytics
-<p align="center">
+<p align="right">
 <a href="https://github.com/PriyanshX1902">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PriyanshX1902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PriyanshX1902&layout=compact&langs_count=8&theme=algolia"/>
