@@ -26,8 +26,20 @@
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+### 🤝🏻 Want to Connect?
+<a href="https://discord.gg/uxt3vek9Xb">
+  <img align="left" alt="Priyansh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/PriyanshBhatn17">
+  <img align="left" alt="Priyansh Bhatnagar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/priyanshx19/">
+  <img align="left" alt="Priyansh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 ### ⚙️ GitHub Analytics
-<p align="right">
+<p align="center">
 <a href="https://github.com/PriyanshX1902">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PriyanshX1902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PriyanshX1902&layout=compact&langs_count=8&theme=algolia"/>
@@ -36,12 +48,5 @@
 
 [![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PriyanshX1902&theme=react-dark)](https://github.com/PriyanshX1902)
 
-### 🤝🏻 Want to Connect?
-<p align="center">
-<a href="https://in.linkedin.com/in/priyanshx19">
-  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
-</a>
-<a href="https://github.com/PriyanshX1902">
-  <img align="left" alt="Priyansh's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
-</a>
+
 
