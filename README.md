@@ -5,7 +5,7 @@
 💡 Interested in working alongside like minded people enthusiastic about ReactJS, FullStack Development, Game Development or developing cutting edge tech.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
 ⚡ In my free time, I pursue Music and Gaming as side hustles.\
-✉️ You can reach out to me via email at priyanshbhatnagar9@gmail.com.
+✉️ You can reach out to me via email at priyanshbhatnagar2002@gmail.com.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
